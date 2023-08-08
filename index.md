@@ -5,5 +5,5 @@
 ##### h5
 ###### h6
 
-![Image](https://www.condominioweb.com/forum/uploads/avatar/57.png)<br/>
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)<br/>
 [Image link](https://www.condominioweb.com/forum/uploads/avatar/57.png)
