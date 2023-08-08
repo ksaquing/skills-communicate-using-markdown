@@ -7,3 +7,7 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)<br/>
 [Image link](https://www.condominioweb.com/forum/uploads/avatar/57.png)
+
+```javascript
+console.log('this is a sample code markdown');
+```
